@@ -1,0 +1,20 @@
+body {
+      font-family: Arial;
+      padding: 20px;
+    }
+    #inp {
+      padding: 10px;
+      width: 250px;
+    }
+    #btn {
+      padding: 10px;
+    }
+    .product {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 6px;
+    }
+    .error {
+      color: red;
+    }
